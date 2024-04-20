@@ -1,0 +1,34 @@
+{
+  "name":"my-snippet",
+  "engines": {
+    "neovim":"latest"
+  },
+  "contributes":{
+    "snippets":[
+      {
+        "language":["javascript", "typescript"],
+        "path":"./snippets/javascript.json"
+      },
+      {
+        "language":["javascript", "typescript"],
+        "path":"./snippets/typescript.json"
+      },
+      {
+        "language":"vue",
+        "path":"./snippets/vue/base.json"
+      },
+      {
+        "language":"vue",
+        "path":"./snippets/vue/html.json"
+      },
+      {
+        "language":"vue",
+        "path":"./snippets/vue/script.json"
+      },
+      {
+        "language":"vue",
+        "path":"./snippets/vue/styles.json"
+      }
+    ]
+  }
+}
