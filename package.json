@@ -15,19 +15,19 @@
       },
       {
         "language":"vue",
-        "path":"./snippets/vue/base.json"
+        "path":"./snippets/vue/base-vue.json"
       },
       {
         "language":"vue",
-        "path":"./snippets/vue/html.json"
+        "path":"./snippets/vue/html-vue.json"
       },
       {
         "language":"vue",
-        "path":"./snippets/vue/script.json"
+        "path":"./snippets/vue/script-vue.json"
       },
       {
         "language":"vue",
-        "path":"./snippets/vue/styles.json"
+        "path":"./snippets/vue/styles-vue.json"
       }
     ]
   }
