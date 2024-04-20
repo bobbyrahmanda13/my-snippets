@@ -1,8 +1,5 @@
 {
   "name":"my-snippet",
-  "engines": {
-    "neovim":"latest"
-  },
   "contributes":{
     "snippets":[
       {
@@ -15,19 +12,19 @@
       },
       {
         "language":"vue",
-        "path":"./snippets/vue/base-vue.json"
+        "path":"./snippets/vue/base.json"
       },
       {
         "language":"vue",
-        "path":"./snippets/vue/html-vue.json"
+        "path":"./snippets/vue/html.json"
       },
       {
         "language":"vue",
-        "path":"./snippets/vue/script-vue.json"
+        "path":"./snippets/vue/script.json"
       },
       {
         "language":"vue",
-        "path":"./snippets/vue/styles-vue.json"
+        "path":"./snippets/vue/styles.json"
       }
     ]
   }
